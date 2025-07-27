@@ -6,7 +6,7 @@ Modern icons for Emacs [treemacs](https://github.com/Alexander-Miller/treemacs).
 
 </div>
 
-This library integrates [modern-icons.el](https://github.com/taquangtrung/modern-icons.el) to display modern and pretty SVG icons for [treemacs](https://github.com/Alexander-Miller/treemacs) files and directories in Emacs.
+This library integrates [modern-icons.el](https://github.com/emacs-modern-icons/modern-icons.el) to display modern and pretty SVG icons for [treemacs](https://github.com/Alexander-Miller/treemacs) files and directories in Emacs.
 
 ## Installation
 
@@ -15,7 +15,7 @@ Install from Melpa (supported soon) or manually using [straight.el](https://gith
 ```elisp
 (use-package modern-icons
   :straight (modern-icons :type git :host github
-                          :repo "taquangtrung/modern-icons-treemacs.el"))
+                          :repo "emacs-modern-icons/modern-icons-treemacs.el"))
 ```
 
 ## Usage

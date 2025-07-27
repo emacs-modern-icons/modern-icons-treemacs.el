@@ -1,12 +1,12 @@
 ;;; modern-icons-treemacs.el --- Modern icons for treemacs -*- lexical-binding: t -*-
 
-;; Copyright (C) 2025 Ta Quang Trung
+;; Copyright (C) 2025 Quang Trung Ta
 
-;; Author: Ta Quang Trung <taquangtrungvn@gmail.com>
+;; Author: Quang Trung Ta <taquangtrungvn@gmail.com>
 ;; Version: 0.1.0
 ;; Created: May 24, 2025
-;; Homepage: https://github.com/taquangtrung/modern-icons.el
-;; Package-Requires: ((emacs "28.1"))
+;; Homepage: https://github.com/emacs-modern-icons/modern-icons-treemacs.el
+;; Package-Requires: ((emacs "28.1") (modern-icons "0.1") (treemacs "2.0"))
 ;; Keywords: lisp, icons, treemacs
 
 ;; This program is free software; you can redistribute it and/or modify
