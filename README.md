@@ -29,6 +29,10 @@ Include the following code into your configuration file:
 
 ## Screenshots
 
-  <p align="center">
-    <img width="600" alt="Modern icons for treemacs" src="screenshots/modern-icons-treemacs.png"/>
-  </p>
+<p align="center">
+  <img width="600" alt="Modern icons for treemacs" src="screenshots/modern-icons-treemacs.png"/>
+</p>
+
+## Acknowledgements
+
+This library is inspired by [treemacs-nerd-icons](https://github.com/rainstormstudio/treemacs-nerd-icons).
